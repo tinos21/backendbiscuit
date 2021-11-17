@@ -1,0 +1,10 @@
+POST http://localhost:8070/app/signup
+Content-Type: application/json
+
+{
+     "fullName": "named changed",
+     "username": "react77jk6faiiledted",
+     "email": "cocozingoshss@gmail.com",
+     "password": "tinos45"
+}
+
